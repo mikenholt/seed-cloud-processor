@@ -1,0 +1,6 @@
+# Rust assets
+/target
+**/*.rs.bk
+
+# VS Code assets
+/.vscode
